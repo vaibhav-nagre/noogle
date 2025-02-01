@@ -1,0 +1,37 @@
+[
+  {
+    "title": "LFC (Loaves, Fishes, and Computers)",
+    "alias": "muto",
+    "headline": "Technical Support Engineer",
+    "timeline": "Jan 2020 - May 2020",
+    "type": "project",
+    "tech": [],
+    "searchDescription": "LFC is dedicated to bridging the digital divide by offering affordable technology solutions and educational resources, empowering underserved communities with essential digital skills.",
+    "longDescription": "Provided technical support for 200+ customers, resolving hardware/software issues and improving setup efficiency by 25%. Delivered training and documentation, achieving a 95% customer satisfaction rate. Collaborated with teams to troubleshoot and resolve complex issues, reaching a 90% first-contact resolution rate.", 
+    "links": [{"link": "https://www.lfctech.org/", "name": "Website", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}]
+  },
+  {
+    "title": "SeeFood App",
+    "alias": "dogma",
+    "headline": "Lead Front End Developer",
+    "timeline": "Jan 2020 - Sept 2021",
+    "type": "project",
+    "tech": ["React JS", "Javascript", "Tailwind", "Firebase"],
+    "searchDescription": "The fastest, easiest way to see pictures and info for any dish on the menu, before you order",
+    "longDescription": "Designed and deployed scalable web applications using React and JavaScript, boosting user engagement by 25%. Optimized UI and implemented SEO best practices, increasing traffic by 15%. Developed 10+ custom components for UX libraries and created an API layer for secure CRUD operations, handling over 1,000 daily requests. Styled responsive pages with SASS and flexbox, ensuring mobile compatibility. Used Redux and React-Hooks for efficient state management, reducing code size by 20%. Contributed to the Agile development cycle, meeting sprint deadlines with incremental feature delivery.", 
+    "links": [{"link": "https://www.facebook.com/SeeFoodApplication/", "name": "Facebook page", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}]
+  },
+  {
+    "title": "Saviynt Inc.",
+    "alias": "meetmidway",
+    "headline": "Senior IAM Engineer",
+    "timeline": "2021 October  - Present",
+    "type": "project",
+    "tech": ["IAM", "IGA", "Java", "Microservices", "API", "SQL"],
+    "searchDescription": "Leading Cybersecurity & Identity Governance Company",
+    "longDescription": "Successfully completed the transition from a monolithic to a microservices architecture, enhancing scalability and maintainability by 30% for over 25 clients. Managed IAM system design, overseeing 50,000+ user accounts across Active Directory, LDAP, and Azure AD. Implemented SSO and MFA solutions, cutting unauthorized access incidents by 30%. Collaborated with development teams to integrate IAM with 20+ enterprise applications, achieving 99.9% system uptime. Contributed to deploying Okta and OneLogin, boosting authentication speed by 40%. Demonstrated strong troubleshooting skills to diagnose and resolve system issues, driving continuous improvements in security and operational efficiency.", 
+    "links": [{"link": "https://saviynt.com/", "name": "Website", "url": "link-outline.svg" , "urlHover": "link-outline.svg"}]
+  }
+
+]
+
