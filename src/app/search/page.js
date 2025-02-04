@@ -3,7 +3,6 @@ import Link from "next/link";
 import { useSearchParams, useRouter } from "next/navigation";
 import { useState, useRef, useEffect } from "react";
 import projects from "../../data/projects.json";
-import experiences from "../../data/experience.json";
 import life from "../../data/life.json";
 import whyHire from "../../data/why.json";
 
