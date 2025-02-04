@@ -38,7 +38,7 @@ export default function Header({ setShowMailer }) {
       url: "https://www.linkedin.com/in/nagre/",
     },
     {
-      text: "designs",
+      text: "projects",
       icon: "figma.svg",
       url: "",
     },

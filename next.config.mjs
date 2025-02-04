@@ -1,7 +1,9 @@
 /** @type {import('next').NextConfig} */
+const isProd = process.env.NODE_ENV === 'production';
+
 const nextConfig = {
-  basePath: '/noogle',
-  assetPrefix: 'https://vaibhav-nagre.github.io/noogle/'
+  basePath: isProd ? '/noogle' : '',
+  assetPrefix: isProd ? 'https://vaibhav-nagre.github.io/noogle/' : '',
 };
 
 export default nextConfig;

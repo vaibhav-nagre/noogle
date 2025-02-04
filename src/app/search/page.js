@@ -339,24 +339,21 @@ export default function Search() {
                 </div>
               )) || (
                 <div className="flex flex-col gap-y-3 p-2">
-                  <h2 className="text-xl">"Lead a life worth telling"</h2>
+                  <h2 className="text-xl">"Nothing is Impossible!"</h2>
                   <h2 className="opacity-70 text-lg">
                     This is one of my favourite quotes of all times as it
                     continually motivates me to seek out unqiue, spontaneous
                     experiences to increase my wordly exposure.
                   </h2>
                   <h2 className="opacity-70 text-lg">
-                    The following is an archive of memorable experiences where I
-                    leave my comfort zone to experience something new.
+                  I finished my CS degree at CSU Monterey Bay and now I’m doing my Master’s at Harrisburg University. At the same time, I work as a Senior IAM Engineer at Saviynt. 
                   </h2>
 
                   <h2 className="opacity-70 text-lg">
-                    Warning: I over-romantacize my life a lot.
+                  Just keeping busy and learning as much as I can!
                   </h2>
 
-                  <h2 className="opacity-70 text-sm">
-                    (but its more fun that way)
-                  </h2>
+                  
                 </div>
               )}
             </div>
